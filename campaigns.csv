@@ -1,0 +1,25 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,budget,target_region
+CMP001,Email - Jan 2025,Email,2025-01-02,2025-03-03,9000,All
+CMP002,Trade Show - Jun 2024,Trade Show,2024-06-02,2024-07-27,28000,Central
+CMP003,Email - Dec 2024,Email,2024-12-11,2025-02-21,10000,North
+CMP004,Webinar - Feb 2025,Webinar,2025-05-13,2025-02-21,55000,East
+CMP005,Paid Search - Aug 2025,Paid Search,2025-08-28,2025-10-22,71000,All
+CMP006,Content - Jan 2025,Content,2025-01-23,2025-03-02,79000,All
+CMP007,Trade Show - Apr 2024,Trade Show,2024-04-20,2024-07-17,65000,West
+CMP008,Email - Oct 2025,Email,2025-10-23,2026-01-18,63000,All
+CMP009,Content - Jan 2025,Content,2025-01-22,2025-03-29,71000,Central
+CMP010,Paid Search - Jul 2024,Paid Search,2024-07-11,2024-09-11,62000,North
+CMP011,Webinar - May 2025,Webinar,2025-05-20,2025-06-10,53000,All
+CMP012,Email - Sep 2024,Email,2024-09-14,2024-10-28,79000,South
+CMP013,Email - Sep 2024,Email,2024-09-04,2024-10-03,29000,East
+CMP014,Paid Search - Jul 2025,Paid Search,2025-07-16,2025-09-07,35000,South
+CMP015,Webinar - Aug 2025,Webinar,2025-08-04,2025-10-19,72000,Central
+CMP016,Webinar - Dec 2024,Webinar,2024-12-17,2025-01-17,28000,North
+CMP017,Content - Sep 2024,Content,2024-09-06,2024-12-04,27000,West
+CMP018,Email - Aug 2025,Email,2025-08-01,2025-08-24,16000,All
+CMP019,Trade Show - Apr 2024,Trade Show,2024-04-26,2024-05-17,25000,Central
+CMP020,Email - May 2025,Email,2025-05-15,2025-08-11,49000,South
+CMP021,Paid Search - Jan 2025,Paid Search,2025-01-26,2025-02-16,71000,All
+CMP022,Paid Search - Jul 2025,Paid Search,2025-07-26,2025-10-03,15000,East
+CMP023,Email - Oct 2024,Email,2024-10-08,2024-12-19,56000,Central
+CMP024,Webinar - Jul 2025,Webinar,2025-07-11,2025-08-19,62000,West

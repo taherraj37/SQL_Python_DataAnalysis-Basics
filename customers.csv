@@ -1,0 +1,518 @@
+customer_id,first_name,last_name,email,phone,city,region,segment,signup_date
+C00001,Emma,Kumar,emma.kumar0@example.com,(942) 592-9629,Sudbury,NORTH,SMB,2024-12-28
+C00002,Ryan,Anderson,ryan.anderson1@example.com,(622) 997-7636,Vancouver,West,Enterprise,02/16/2021
+C00003,Jack,Gagnon,jack.gagnon2@example.com,(527) 612-7016,Vancouver,West,SMB,2023-08-09
+C00004,Omar,Clark,omar.clark3@example.com,(584) 467-5441,Ottawa,East,Enterprise,2025-05-25
+C00005,Lucas,Tremblay,lucas.tremblay4@example.com,(973) 968-5617,Montreal,East,SMB,2024-12-28
+C00006,Arjun,CLARK,arjun.clark5@example.com,(560) 540-2952,Toronto,CENTRAL,SMB,01-Mar-2022
+C00007,Sofia  ,Wong,sofia.wong6@example.com,(669) 200-6814,Thunder Bay,North,SMB,2022-04-18
+C00008,AVA,Gagnon,ava.gagnon7@example.com,(545) 630-7600,Calgary,West,SMB,2024-12-01
+C00009,Lucas,Anderson,lucas.anderson8@example.com,,London,South,Consumer,2025-02-05
+C00010,AVA,Gagnon,ava.gagnon9@example.com,(979) 323-1949,Thunder Bay,North,Consumer,2022-05-28
+C00011,Jack,roy,jack.roy10@example.com,(951) 520-6639,Ottawa,East,Consumer,01/06/2021
+C00012,Priya,kumar,priya.kumar11@example.com,(515) 712-3772,Toronto,Central,SMB,2023/03/23
+C00013,Grace,Martin,grace.martin12@example.com,(529) 322-3075,Vancouver,West,SMB,02/06/2024
+C00014,Grace,Wilson,grace.wilson13@example.com,(954) 599-2407,Calgary,West,Enterprise,22-Mar-2023
+C00015,Jack,gagnon,jack.gagnon14@example.com,(804) 487-9988,Calgary,West,Consumer,03-Sep-2025
+C00016,Emma,Wong,emma.wong15@example.com,(779) 429-4147,Calgary,West,SMB,2025-01-25
+C00017,Omar,Lee,omar.lee16@example.com,(400) 710-6241,Ottawa,  East ,SMB,2024-12-09
+C00018,Liam,Singh,liam.singh17@example.com,(207) 991-1984,Sudbury,North,SMB,2021/02/07
+C00019,Arjun,Smith,arjun.smith18@example.com,(620) 776-8738,Mississauga,Central,Consumer,2025-04-08
+C00020,Mateo,brown,mateo.brown19@example.com,(457) 362-4411,Montreal,East,SMB,2024-10-11
+C00021,Ethan,Smith,ethan.smith20@example.com,(622) 379-3728,Montreal,East,SMB,26-Dec-2022
+C00022,Emma,Brown,emma.brown21@example.com,(393) 987-5040,Windsor,South,SMB,2023-12-13
+C00023,Noah,Wong,noah.wong22@example.com,(987) 664-8185,Sudbury,NORTH,SMB,2025-02-14
+C00024,GRACE,Wong,grace.wong23example.com,(230) 456-6731,Toronto,central,SMB,2025-07-13
+C00025,Mia  ,Wong,mia.wong24@example.com,(637) 339-5549,Calgary,west,SMB,2023/10/03
+C00026,Mia,Smith,mia.smith25@example.com,(529) 526-7106,Vancouver,West,SMB,2021-03-17
+C00027,Leah,Brown,leah.brown26@example.com,(798) 538-3975,Montreal,East  ,Consumer,2024-02-04
+C00028,Emma,Roy,emma.roy27@example.com,(543) 350-5791,Toronto,Central,Enterprise,2024-05-26
+C00029,Leah,Taylor,leah.taylor28@example.com,(879) 245-3050,Ottawa,East,Consumer,2021-04-18
+C00030,Leah,Wilson,leah.wilson29@example.com,(986) 642-2591,Ottawa,East,SMB,2025-02-01
+C00031,Mateo,Singh,mateo.singh30@example.com,(216) 289-2592,Montreal,East,Consumer,04-Jan-2022
+C00032,Noah,Tremblay,noah.tremblay31@example.com,(912) 419-7184,London,South,SMB,14-Jun-2025
+C00033,Noah,Anderson,noah.anderson32@example.com,(251) 937-6234,Thunder Bay,  North ,Consumer,2023-10-04
+C00034,lucas,Wilson,lucas.wilson33@example.com,,Montreal,East,SMB,2022-08-12
+C00035,Mateo,Brown,mateo.brown34@example.com,(281) 324-5669,Toronto,Central,Consumer,2021-04-18
+C00036,Noah,Anderson,noah.anderson35@example.com,(684) 739-4985,Sudbury,North  ,SMB,2021-02-02
+C00037,Arjun,Clark,arjun.clark36@example.com,(561) 841-6640,Mississauga,Central,Consumer,2024-09-15
+C00038,Emma,Smith,emma.smith37@example.com,,Toronto,central,Consumer,2022-11-20
+C00039,SOFIA,Lee,sofia.lee38@example.com,(913) 674-9134,Windsor,South,SMB,2025-03-14
+C00040,Olivia,Wong,olivia.wong39@example.com,(744) 319-9075,Calgary,West,SMB,2022-02-25
+C00041,Priya,Anderson,priya.anderson40@example.com,(362) 312-7522,Thunder Bay,North,SMB,2025-08-08
+C00042,Liam,Wong,liam.wong41@example.com,(966) 961-8840,Vancouver,West,SMB,2025-09-16
+C00043,Noah,Lee,noah.lee42@example.com,(594) 935-5294,Calgary,West,SMB,2021/07/05
+C00044,Noah,Wilson,noah.wilson43@example.com,(791) 379-7603,London,South,SMB,2024-03-27
+C00045,Grace,Anderson,grace.anderson44@example.com,(236) 585-7401,Thunder Bay,North,SMB,2025-09-12
+C00046,Liam,Tremblay,liam.tremblay45@example.com,,Mississauga,Central,SMB,08/13/2022
+C00047,Zoe,Martin,zoe.martin46@example.com,(634) 714-3228,Ottawa,East,Consumer,2021-05-04
+C00048,Mateo,Taylor,mateo.taylor47@example.com,(687) 617-8293,Toronto,Central,SMB,18-May-2025
+C00049,Sofia,Campbell,sofia.campbell48@example.com,(236) 282-8781,Calgary,West,Consumer,2023-05-16
+C00050,Ryan,Brown,ryan.brown49@example.com,(579) 755-3209,Vancouver,  West ,Enterprise,2021-02-19
+C00051,Grace,Gagnon,grace.gagnon50@example.com,,Vancouver,West,SMB,15-Mar-2025
+C00052,Ethan,Wilson,ethan.wilson51@example.com,(659) 563-2461,Thunder Bay,North,Enterprise,2024-05-24
+C00053,Grace,gagnon,grace.gagnon52@example.com,(530) 311-8418,Windsor,South,Consumer,2021-05-09
+C00054,MIA,Lewis,mia.lewis53@example.com,(548) 360-6476,Montreal,East,SMB,2022-04-18
+C00055,Jack,Brown,jack.brown54@example.com,,Ottawa,East,Consumer,2021-02-03
+C00056,Sofia,Lewis,sofia.lewis55@example.com,(942) 614-9566,Sudbury,North,SMB,2025-10-10
+C00057,Priya,Singh,priya.singh56@example.com,,Montreal,East,SMB,2021-02-15
+C00058,Omar,Kumar,omar.kumar57@example.com,(771) 975-2765,Thunder Bay,North,SMB,2024-12-24
+C00059,Daniel,Lee,daniel.lee58@example.com,(923) 352-5952,Vancouver,West,SMB,2023-07-23
+C00060,Omar,Roy,omar.roy59@example.com,(253) 878-1543,Vancouver,West,SMB,01-Dec-2023
+C00061,Sofia,kumar,sofia.kumar60@example.com,(690) 584-4754,Toronto,Central,SMB,2025-01-21
+C00062,Olivia,Anderson,olivia.anderson61@example.com,(600) 322-6963,Vancouver,West,SMB,06/23/2025
+C00063,Arjun,Tremblay,arjun.tremblay62@example.com,(791) 761-7567,London,South,Enterprise,2021-08-21
+C00064,Noah,Anderson,noah.anderson63@example.com,(618) 577-7503,Toronto,Central,Enterprise,2021-02-02
+C00065,Omar,Kumar,omar.kumar64@example.com,(607) 941-9724,Ottawa,East,Consumer,08/16/2021
+C00066,Ava,Lee,ava.lee65@example.com,(218) 494-9729,Windsor,South,SMB,2024-05-31
+C00067,Ava,Clark,ava.clark66@example.com,(339) 781-5174,Toronto,Central,Enterprise,05-Nov-2023
+C00068,Ava,Campbell,ava.campbell67@example.com,(616) 786-1881,London,South  ,Consumer,2021-06-03
+C00069,Chloe,Wilson,chloe.wilson68@example.com,(371) 724-4403,Sudbury,North,Enterprise,2022-03-04
+C00070,Mateo,Smith,mateo.smith69@example.com,(827) 393-6307,Montreal,EAST,SMB,09/08/2023
+C00071,Leah,Campbell,leah.campbell70@example.com,(694) 299-3320,Vancouver,West,Consumer,2024-08-26
+C00072,Zoe,Martin,zoe.martin71@example.com,(714) 988-5880,Sudbury,North,Consumer,2022-09-20
+C00073,Lucas,Kumar,lucas.kumar72@example.com,(320) 736-7067,Montreal,East,Consumer,2025-10-01
+C00074,Olivia,Gagnon,olivia.gagnon73@example.com,(447) 256-4735,Sudbury,North,SMB,2025-12-17
+C00075,Olivia,Singh,olivia.singh74@example.com,(579) 312-3565,Vancouver,West,Consumer,2024-10-30
+C00076,Ethan,Tremblay,,(220) 875-7580,Ottawa,East,Enterprise,2023-04-10
+C00077,Leah,Anderson,leah.anderson76@example.com,(615) 228-5017,Windsor,South,Consumer,21-May-2025
+C00078,Sofia,Tremblay,sofia.tremblay77@example.com,(400) 719-2706,London,South,Consumer,2024-08-22
+C00079,Omar,  Lee ,omar.lee78@example.com,(292) 750-5402,Montreal,East,Consumer,2023-08-07
+C00080,Emma,Wong,emma.wong79@example.com,(416) 321-2683,Vancouver,West,SMB,2023-03-22
+C00081,Liam,Clark,liam.clark80@example.com,,Mississauga,Central,Enterprise,2025-02-28
+C00082,Grace,Lewis,grace.lewis81@example.com,(749) 563-2257,Montreal,East,Consumer,2023-10-15
+C00083,Emma,Lewis  ,emma.lewis82@example.com,(751) 531-5874,Thunder Bay,North,SMB,2021-11-30
+C00084,Liam,Gagnon,liam.gagnon83@example.com,(616) 540-1288,Toronto,Central,SMB,2025-12-31
+C00085,ZOE,Martin,zoe.martin84@example.com,(444) 498-3957,Calgary,West,Consumer,2021-05-05
+C00086,Leah,Wong,leah.wong85@example.com,(720) 530-1123,Vancouver,West,SMB,23-Jun-2024
+C00087,Ryan,KUMAR,ryan.kumar86@example.com,(468) 564-3913,Thunder Bay,North,SMB,2024-04-12
+C00088,Liam,Lewis,liam.lewis87@example.com,(514) 204-4400,London,South,SMB,12/07/2023
+C00089,Grace,Campbell,grace.campbell88@example.com,(364) 674-2304,Vancouver,west,Enterprise,2021-04-05
+C00090,Grace,Tremblay,grace.tremblay89@example.com,(217) 804-4103,Toronto,Central,Enterprise,2023-06-19
+C00091,Grace,  Gagnon ,grace.gagnon90@example.com,(789) 280-1874,Montreal,East,Enterprise,2025-06-18
+C00092,Leah,Singh,leah.singh91@example.com,(825) 459-1200,Toronto,Central,Consumer,2022-03-14
+C00093,Ava,Wong,ava.wong92@example.com,(397) 810-9134,Mississauga,Central,Consumer,2024-06-16
+C00094,Jack,Lee,jack.lee93@example.com,(427) 600-6690,London,south,SMB,2025-04-18
+C00095,Mia,Wilson,mia.wilson94@example.com,(985) 983-7633,Toronto,Central,SMB,2025-10-05
+C00096,Grace,Brown,,(233) 966-5922,Windsor,South,Consumer,2023-08-01
+C00097,Mateo,Wong,mateo.wong96@example.com,(834) 468-1826,Windsor,South,Consumer,2022-07-28
+C00098,Daniel,Kumar,daniel.kumar97@example.com,,Vancouver,West,Consumer,2024-07-01
+C00099,Chloe,SMITH,chloe.smith98@example.com,(989) 282-8583,Vancouver,West,SMB,2023/06/07
+C00100,Chloe,Lee,chloe.lee99@example.com,(202) 583-2361,Sudbury,North,Consumer,20-Feb-2024
+C00101,Chloe,Singh,chloe.singh100@example.com,(981) 214-2178,Mississauga,Central,SMB,2024-09-16
+C00102,Daniel,Singh,daniel.singh101@example.com,(780) 955-9867,Sudbury,North,SMB,2024-07-20
+C00103,Priya,Clark,priya.clark102@example.com,(412) 236-1816,Mississauga,Central,Consumer,2022-03-20
+C00104,Emma,Tremblay,emma.tremblay103@example.com,(206) 943-7572,Thunder Bay,North,SMB,2024-10-12
+C00105,Grace,Roy,grace.roy104@example.com,(601) 978-3329,Calgary,West,SMB,09/17/2023
+C00106,Sofia,Tremblay,sofia.tremblay105@example.com,(780) 886-2469,Calgary,West,SMB,2025-08-27
+C00107,Mia,Martin,mia.martin106@example.com,(558) 530-8698,Vancouver,West,SMB,31/31/2024
+C00108,Sofia,Clark,sofia.clark107@example.com,(463) 624-9205,Calgary,West,SMB,2025-06-17
+C00109,Jack,Lewis,jack.lewis108@example.com,(980) 764-3712,Ottawa,East,Consumer,2025-11-23
+C00110,Omar,Smith,omar.smith109example.com,,Vancouver,West,SMB,2025-12-21
+C00111,Grace,Campbell,grace.campbell110@example.com,(649) 359-7428,Windsor,  South ,SMB,2024-09-21
+C00112,Arjun,Martin,unknown,(743) 605-7072,Calgary,West,Consumer,27-Dec-2023
+C00113,Daniel,Martin,daniel.martin112@example.com,(604) 483-4604,Montreal,East,SMB,2021/08/04
+C00114,Ethan,Roy,ethan.roy113@example.com,(478) 567-5198,Montreal,  East ,Consumer,2022-12-07
+C00115,Ryan,Martin,ryan.martin114@example.com,(280) 881-1501,Montreal,East,SMB,2023-05-18
+C00116,chloe,Singh,chloe.singh115@example.com,(656) 233-9099,Ottawa,East,SMB,2024-11-26
+C00117,Ava,Lewis,ava.lewis116example.com,(792) 231-6080,Thunder Bay,North,SMB,TBD
+C00118,Lucas,Taylor,lucas.taylor117@example.com,(595) 961-3145,Sudbury,north,Consumer,2023-03-13
+C00119,Liam,Anderson,liam.anderson118@example.com,(474) 304-3669,London,South,Enterprise,2021-09-25
+C00120,Emma,Singh,emma.singh119@example.com,(844) 380-6458,Sudbury,North,Consumer,07/31/2024
+C00121,Zoe,Smith,zoe.smith120@example,(532) 770-7165,Montreal,East,SMB,2023-02-28
+C00122,Arjun,Brown,arjun.brown121@example.com,(993) 620-2465,Vancouver,West,SMB,2021-03-07
+C00123,Noah,Roy,noah.roy122@example.com,(859) 626-8036,Calgary,West,SMB,06/03/2022
+C00124,Zoe,Martin,zoe.martin123@example.com,(342) 477-1127,Ottawa,East,Enterprise,2025-05-25
+C00125,Chloe,WONG,chloe.wong124@example,(683) 411-3329,Toronto,Central,SMB,2021-08-05
+C00126,Ava,Wong,ava.wong125@example.com,(231) 806-3162,Montreal,East,SMB,2023-01-12
+C00127,Mia,Wong,mia.wong126@example.com,(858) 226-4170,Sudbury,North,SMB,2023-07-24
+C00128,Ethan,Campbell,ethan.campbell127@example.com,(423) 929-4407,Vancouver,West,SMB,2021-06-02
+C00129,Sofia,Gagnon,sofia.gagnon128@example.com,(983) 470-4074,Ottawa,East,SMB,N/A
+C00130,ETHAN,  Campbell ,ethan.campbell129@example.com,(462) 682-1226,Vancouver,West,Enterprise,2025-09-13
+C00131,Priya,Lee,priya.lee130@example.com,(432) 804-6394,Ottawa,EAST,Enterprise,2023-12-15
+C00132,Mia,Campbell,mia.campbell131@example.com,(991) 235-5537,Montreal,East,Enterprise,2022-01-20
+C00133,Zoe,Kumar,zoe.kumar132@example.com,(945) 451-1299,Sudbury,North,Enterprise,11/06/2021
+C00134,Ethan,Kumar,ethan.kumar133@example.com,(818) 786-8597,Ottawa,East,SMB,2023-02-17
+C00135,Noah,Taylor,noah.taylor134@example.com,(335) 547-2096,Vancouver,West,Enterprise,2024-08-14
+C00136,Ryan,Smith,ryan.smith135@example.com,(812) 810-3775,London,  South ,Consumer,26-Aug-2024
+C00137,Ava,Anderson,ava.anderson136@example.com,(593) 275-9342,Calgary,West,SMB,2021-12-23
+C00138,Lucas,Wilson,lucas.wilson137@example.com,(994) 229-1839,Sudbury,North,Enterprise,08/17/2024
+C00139,Daniel,Anderson  ,daniel.anderson138@example.com,(306) 227-7018,Windsor,South,Consumer,06/25/2025
+C00140,Leah,Gagnon,leah.gagnon139@example.com,(815) 841-6421,Ottawa,East,SMB,2022-02-18
+C00141,Ryan,  Clark ,ryan.clark140@example.com,(478) 278-7766,Mississauga,Central,SMB,2021-02-17
+C00142,Leah,Wilson,leah.wilson141@example.com,(420) 880-1382,London,South,Consumer,2025-10-17
+C00143,Omar,Clark,omar.clark142@example.com,(569) 411-9739,London,South,Consumer,2023-08-12
+C00144,Arjun,Wong,arjun.wong143@example.com,(513) 238-8913,Ottawa,  East ,Consumer,2024-11-18
+C00145,Daniel,Wilson,daniel.wilson144@example.com,(888) 914-9249,Mississauga,Central,Enterprise,2022-08-08
+C00146,Mia,Singh,mia.singh145@example.com,(540) 791-5522,Toronto,Central,SMB,07/01/2022
+C00147,Arjun,Gagnon,arjun.gagnon146@example.com,(573) 405-4369,Thunder Bay,North,Consumer,02/15/2022
+C00148,Sofia,Kumar,sofia.kumar147@example.com,(601) 812-4167,London,South,Consumer,2022-02-01
+C00149,Jack,Anderson,jack.anderson148@example.com,(640) 530-5349,Toronto,Central,Enterprise,12-May-2023
+C00150,Grace,Wong,grace.wong149@example.com,(858) 734-9726,Thunder Bay,North,SMB,2021-07-13
+C00151,Arjun,Wilson,arjun.wilson150@example.com,(596) 973-6203,Mississauga,Central,SMB,31/31/2024
+C00152,Ryan,Gagnon,ryan.gagnon151@example.com,(869) 940-5737,Windsor,South  ,Enterprise,23-Jul-2023
+C00153,Ava,Lee,ava.lee152@example.com,(381) 853-3729,Toronto,Central,Consumer,07/30/2025
+C00154,Grace,Clark,grace.clark153@example.com,(666) 332-9365,Windsor,South,SMB,2023-07-06
+C00155,Mateo,Roy,,(482) 650-4449,Montreal,East,SMB,2022-07-08
+C00156,Sofia,Taylor,sofia.taylor155@example.com,(776) 469-6380,Vancouver,  West ,Enterprise,2023-07-30
+C00157,Daniel,Brown,daniel.brown156@example.com,(209) 253-5579,Sudbury,North,SMB,2021-10-09
+C00158,Chloe,Wong,chloe.wong157@example.com,(609) 255-6965,Montreal,East,Enterprise,2025-02-13
+C00159,Liam,Lee,liam.lee158@example.com,(519) 948-3350,Ottawa,East,SMB,2024-08-07
+C00160,Lucas,Wilson,lucas.wilson159@example.com,(914) 408-3909,Vancouver,  West ,Enterprise,2021-09-26
+C00161,Noah,Taylor,noah.taylor160@example.com,(466) 773-5418,Mississauga,Central,Consumer,2023-11-29
+C00162,Priya,Singh,unknown,(553) 769-1937,Calgary,West,Enterprise,2023-09-10
+C00163,Olivia,Wong,olivia.wong162@example,(810) 563-3829,Montreal,East,SMB,2022-01-03
+C00164,Ava,Gagnon,ava.gagnon163@example.com,(897) 815-9300,Ottawa,East,Enterprise,08/11/2021
+C00165,Mateo,Gagnon,mateo.gagnon164@example.com,(917) 291-6259,Ottawa,East,Enterprise,2024-10-20
+C00166,Ryan,Brown,ryan.brown165@example.com,(942) 475-3832,Toronto,Central,SMB,2022/04/28
+C00167,Sofia,Smith,sofia.smith166@example.com,(745) 561-7636,London,South,Enterprise,2023-08-06
+C00168,Omar,Lee,omar.lee167@example.com,(532) 640-9084,Sudbury,North,Enterprise,2022-03-29
+C00169,Leah,Lewis,leah.lewis168@example.com,(581) 763-6511,Windsor,South,SMB,2024-04-08
+C00170,Emma,Clark,emma.clark169@example.com,,Thunder Bay,north,Consumer,2021-03-31
+C00171,Jack,Campbell,jack.campbell170@example.com,(253) 281-4050,Thunder Bay,  North ,Enterprise,10/19/2022
+C00172,Chloe,Campbell,chloe.campbell171@example.com,(556) 275-8191,Thunder Bay,North,SMB,2023-09-26
+C00173,Chloe,Lee,chloe.lee172@example.com,(958) 521-8885,Vancouver,West,SMB,13-Mar-2023
+C00174,Liam,Tremblay,liam.tremblay173@example.com,(879) 455-9447,Calgary,West,SMB,2024-01-24
+C00175,Chloe,Smith,chloe.smith174@example.com,(494) 573-3671,Vancouver,West,SMB,2021-11-26
+C00176,Priya,Wilson,priya.wilson175@example.com,(574) 494-5889,Montreal,east,Enterprise,2023-03-18
+C00177,Mateo,Wilson,mateo.wilson176@example.com,(403) 350-2772,Vancouver,West,SMB,2024-10-13
+C00178,Liam,Martin,liam.martin177@example.com,(445) 700-3967,Thunder Bay,North,SMB,02-Sep-2022
+C00179,Sofia,ROY,sofia.roy178@example.com,(510) 753-5804,Toronto,Central,Consumer,10/14/2021
+C00180,Leah,Smith,leah.smith179@example.com,(213) 502-3608,Montreal,east,Consumer,2025-03-28
+C00181,Priya,Taylor,priya.taylor180@example.com,(669) 439-5697,Toronto,Central,Consumer,2024-11-22
+C00182,Emma,Clark,emma.clark181@example.com,(928) 834-4164,Thunder Bay,North,SMB,2024-05-27
+C00183,Jack,ANDERSON,jack.anderson182@example.com,(246) 991-7284,Ottawa,East,Enterprise,28-Dec-2024
+C00184,Jack,Singh,jack.singh183@example.com,(839) 566-1169,Vancouver,West,SMB,2024-11-23
+C00185,noah,Lee,noah.lee184@example.com,(274) 224-2138,Ottawa,East,SMB,2024-09-25
+C00186,Grace,Roy,grace.roy185@example.com,(223) 605-1728,Montreal,East,Enterprise,2023-07-20
+C00187,Zoe,Tremblay,zoe.tremblay186@example.com,(778) 677-6659,Sudbury,North,Enterprise,2021-02-05
+C00188,Mateo,Taylor  ,mateo.taylor187@example.com,(556) 802-6316,Windsor,South,SMB,2023-12-27
+C00189,Zoe,Taylor,zoe.taylor188@example.com,(873) 235-1327,London,South,SMB,2022-05-14
+C00190,Daniel,Smith,daniel.smith189@example.com,(766) 372-2401,Windsor,South,Enterprise,11/13/2024
+C00191,Jack,Lee,jack.lee190@example.com,(887) 590-4781,Vancouver,West,Consumer,2023-05-06
+C00192,Daniel,Roy,daniel.roy191@example.com,(916) 470-7340,Calgary,West,SMB,2025-07-12
+C00193,Leah,Tremblay,leah.tremblay192@example.com,(762) 752-1842,Calgary,West,Consumer,2023/12/24
+C00194,Leah,Anderson,leah.anderson193@example.com,(768) 810-1749,London,South,SMB,10/03/2023
+C00195,Liam,Gagnon,liam.gagnon194@example.com,(359) 355-9747,Mississauga,Central,SMB,08/06/2025
+C00196,Lucas,Campbell,lucas.campbell195@example.com,(668) 687-2931,Sudbury,North,Enterprise,2023-05-18
+C00197,Priya,Anderson,priya.anderson196@example.com,(445) 754-1355,Windsor,South,SMB,11/17/2022
+C00198,Mateo,Lewis,mateo.lewis197@example.com,(692) 234-9090,Sudbury,North,Enterprise,2022/11/10
+C00199,Liam,Kumar,liam.kumar198@example.com,(203) 989-9538,London,South,Enterprise,2025-05-17
+C00200,Liam,Taylor,liam.taylor199@example.com,(368) 576-3160,Mississauga,Central,SMB,2024-10-12
+C00201,SOFIA,Clark,sofia.clark200@example.com,(588) 273-3921,Windsor,South,SMB,10/26/2021
+C00202,Chloe,Singh,chloe.singh201@example.com,(647) 544-3634,Mississauga,Central,Enterprise,2023-06-19
+C00203,Noah,Lewis,noah.lewis202@example.com,(677) 693-9954,Ottawa,East,Consumer,2022-11-09
+C00204,Noah,Kumar,noah.kumar203@example.com,(513) 507-1027,Vancouver,West,Enterprise,2024-03-26
+C00205,Emma,Campbell,emma.campbell204@example.com,(344) 318-3586,Montreal,East,SMB,2021-04-06
+C00206,Mateo,Clark,mateo.clark205@example.com,(280) 810-8419,London,South,SMB,2024-07-27
+C00207,Olivia,Gagnon,olivia.gagnon206@example.com,(596) 873-1293,Calgary,West,SMB,2024-09-17
+C00208,Mateo,Anderson,mateo.anderson207@example.com,(221) 522-7711,Mississauga,Central,SMB,18-Feb-2022
+C00209,Arjun,Roy,arjun.roy208@example.com,(264) 517-9873,London,south,Enterprise,2021-10-03
+C00210,Arjun,Lewis,arjun.lewis209@example.com,(297) 358-2198,Calgary,West,Consumer,2024-02-20
+C00211,RYAN,Taylor,ryan.taylor210@example.com,(658) 864-6223,Windsor,South,SMB,15-Apr-2022
+C00212,Sofia,Kumar,sofia.kumar211@example.com,(449) 860-3762,Vancouver,West,Enterprise,2025-09-16
+C00213,Priya,Singh,priya.singh212@example.com,(310) 276-7207,Calgary,West,SMB,2024-11-16
+C00214,Daniel  ,Wong,daniel.wong213@example.com,(865) 495-5999,Ottawa,East,Consumer,2025-10-10
+C00215,Leah,Brown,leah.brown214@example.com,(653) 459-2532,Vancouver,West,Consumer,2023-09-04
+C00216,Daniel,Brown,daniel.brown215@example.com,(613) 781-9534,Windsor,South,Consumer,2025-09-10
+C00217,Sofia,Gagnon,sofia.gagnon216@example.com,(430) 201-1597,Sudbury,North,Consumer,N/A
+C00218,Arjun,Anderson,arjun.anderson217@example.com,(765) 867-1678,Thunder Bay,North,Consumer,06/14/2022
+C00219,Ava,Kumar,ava.kumar218@example.com,,Ottawa,East,SMB,2021-01-05
+C00220,Mateo,Singh,mateo.singh219@example.com,(271) 634-8681,Toronto,CENTRAL,Consumer,2024-05-22
+C00221,Emma,Campbell,emma.campbell220@example.com,(575) 638-7910,Thunder Bay,North,SMB,2023-07-22
+C00222,Leah,Gagnon,leah.gagnon221@example.com,(540) 908-5399,Ottawa,East,SMB,2022-06-10
+C00223,Grace,Lewis,grace.lewis222@example.com,(910) 990-4608,Vancouver,West,SMB,07/11/2022
+C00224,Emma,Campbell,emma.campbell223@example.com,(319) 955-1465,Windsor,South,SMB,2024-03-21
+C00225,Daniel,Lee,daniel.lee224@example.com,(278) 908-2009,Calgary,West,Enterprise,11/26/2021
+C00226,Emma,Lewis,emma.lewis225@example.com,(731) 809-3369,Windsor,South,SMB,07/29/2023
+C00227,Priya,Brown,priya.brown226@example.com,(248) 492-4148,Mississauga,Central,SMB,2024-01-26
+C00228,Liam,Lewis,liam.lewis227@example.com,(616) 541-3941,Ottawa,East,Consumer,2022-03-15
+C00229,Arjun,Tremblay,arjun.tremblay228@example,(811) 400-8783,Montreal,East,SMB,2022-02-22
+C00230,Ryan,Roy,ryan.roy229@example.com,(491) 844-8848,Sudbury,North,Consumer,2022-10-09
+C00231,Priya,Wong,priya.wong230@example.com,(658) 306-5067,Montreal,East,SMB,2023-12-18
+C00232,ZOE,anderson,unknown,(754) 278-3137,Toronto,Central,Consumer,10-Apr-2022
+C00233,Leah,Lewis,leah.lewis232@example.com,(655) 206-2021,Thunder Bay,North,Enterprise,24-Nov-2022
+C00234,Daniel,Anderson,daniel.anderson233@example.com,(237) 341-9883,Vancouver,West,Consumer,2023-09-20
+C00235,Ava,Campbell,ava.campbell234@example.com,,Ottawa,East,SMB,2021-12-07
+C00236,Ryan,Wilson,ryan.wilson235@example.com,(285) 257-8643,Vancouver,West,SMB,2023-11-05
+C00237,Priya,Smith,priya.smith236@example.com,(673) 874-4232,Vancouver,West,SMB,
+C00238,Mia,Brown,mia.brown237@example,,Ottawa,East,SMB,2021-09-18
+C00239,Priya,Roy,priya.roy238@example.com,(357) 992-9739,London,South,SMB,2022-03-09
+C00240,Omar,Smith,omar.smith239@example.com,(405) 602-2115,Vancouver,West,Consumer,08-Jun-2022
+C00241,Grace,Gagnon,grace.gagnon240@example.com,(688) 676-2992,Sudbury,North,Consumer,24-Feb-2021
+C00242,Daniel,Kumar,daniel.kumar241@example.com,(833) 573-9031,Montreal,East,Consumer,2025-10-22
+C00243,Chloe,Lewis,chloe.lewis242@example.com,(362) 397-5740,Sudbury,North,SMB,2022-07-17
+C00244,Lucas,Singh,lucas.singh243@example.com,(644) 897-3967,Vancouver,West,SMB,2025-01-09
+C00245,Daniel,Clark,daniel.clark244@example,(630) 744-9176,Vancouver,West,Consumer,2025-07-05
+C00246,Ethan,Lewis,ethan.lewis245@example.com,(978) 357-5836,Sudbury,North,Consumer,2025-01-01
+C00247,Sofia,Wong,sofia.wong246@example.com,(478) 285-4507,Vancouver,West,SMB,2025-02-27
+C00248,Mia,Singh,mia.singh247@example.com,(389) 309-1606,Ottawa,East  ,Consumer,2021-07-02
+C00249,Mia,Wilson,mia.wilson248@example.com,(809) 298-1884,Vancouver,west,SMB,11/11/2022
+C00250,Noah,Lewis,noah.lewis249@example.com,(358) 869-1872,Thunder Bay,North,Consumer,2024-09-24
+C00251,Jack,Martin,jack.martin250@example.com,(942) 779-1954,Sudbury,North,Consumer,2023-11-18
+C00252,Emma,Lee,emma.lee251@example.com,(254) 875-6684,Montreal,East,Consumer,2021-01-11
+C00253,Liam,Brown,liam.brown252example.com,(247) 861-9026,Thunder Bay,North,Enterprise,2023-11-03
+C00254,Leah,Kumar,leah.kumar253@example.com,(773) 574-3901,Windsor,South,SMB,09-Jan-2025
+C00255,Mateo,Campbell,mateo.campbell254@example.com,(352) 964-1532,Vancouver,West,Enterprise,2025-02-22
+C00256,Zoe,Brown,zoe.brown255@example.com,(669) 529-4933,Thunder Bay,North,Consumer,2022-12-02
+C00257,Priya,Martin,priya.martin256@example.com,(503) 997-5485,Calgary,West,SMB,2022-03-08
+C00258,  Ethan ,Gagnon,ethan.gagnon257@example.com,(328) 752-5854,Sudbury,North,Consumer,2022-07-20
+C00259,Emma,Gagnon,emma.gagnon258@example.com,(869) 656-1522,Thunder Bay,North,Consumer,2022/06/26
+C00260,Priya,Kumar,priya.kumar259@example.com,(239) 879-6246,Montreal,East,Enterprise,2022-09-25
+C00261,Noah,Roy,noah.roy260@example.com,(475) 725-6592,Vancouver,West,SMB,2022-07-06
+C00262,Mateo,Clark,mateo.clark261@example.com,(775) 428-8111,Sudbury,North,SMB,2023-04-15
+C00263,Leah,Singh,leah.singh262@example.com,(956) 629-1226,London,South,SMB,2021-03-16
+C00264,Leah,Wong,leah.wong263@example.com,(684) 283-3458,Toronto,Central,Enterprise,18-May-2022
+C00265,Ethan,Martin  ,ethan.martin264@example.com,(980) 897-5992,Mississauga,Central,Enterprise,07/29/2022
+C00266,Daniel,Smith,daniel.smith265@example.com,(742) 518-6329,Ottawa,East,SMB,07-Oct-2021
+C00267,Chloe,Smith,chloe.smith266@example.com,(211) 786-9093,Montreal,East,SMB,2025-05-23
+C00268,Arjun,Wilson,arjun.wilson267@example.com,(861) 967-6321,Windsor,South,SMB,2024-05-18
+C00269,Emma,Lewis,emma.lewis268@example.com,(780) 556-8534,Vancouver,West,Enterprise,2025/07/24
+C00270,Ethan,Smith,ethan.smith269@example.com,(890) 495-5677,Ottawa,East,SMB,2023-10-23
+C00271,Ryan,Wilson,ryan.wilson270@example.com,(463) 240-8044,Windsor,South,SMB,07/20/2021
+C00272,Jack,Brown,jack.brown271@example.com,(314) 328-4360,Thunder Bay,North,SMB,2025-07-10
+C00273,Olivia,Clark,olivia.clark272@example.com,(504) 603-9870,Sudbury,North,Consumer,2023-04-17
+C00274,Priya,Campbell,priya.campbell273@example.com,(387) 380-4044,Mississauga,Central,SMB,06/03/2024
+C00275,Grace,Kumar,grace.kumar274@example.com,(883) 506-8526,Montreal,East,SMB,2022-11-28
+C00276,Jack,Anderson,jack.anderson275@example.com,(817) 658-1997,Ottawa,East,Consumer,2023-06-22
+C00277,Zoe,Campbell,zoe.campbell276@example.com,(920) 966-2684,Montreal,East,SMB,2023-06-13
+C00278,Emma,Kumar,emma.kumar277@example.com,(521) 972-9308,Calgary,West,SMB,06/04/2022
+C00279,Lucas,Smith,lucas.smith278@example.com,(718) 617-9922,Thunder Bay,North,Enterprise,2023-10-10
+C00280,Omar,Wong,omar.wong279@example.com,(641) 796-8374,Sudbury,North,Enterprise,2024-09-01
+C00281,Omar,Anderson,omar.anderson280@example.com,(358) 227-6645,London,South,Enterprise,2021-02-06
+C00282,CHLOE,Anderson,chloe.anderson281@example.com,(745) 597-8461,Montreal,East,Consumer,2021-08-28
+C00283,Emma,Lee,emma.lee282@example.com,(875) 242-6389,Calgary,West,Consumer,2025-03-18
+C00284,Emma,Kumar,emma.kumar283@example.com,(951) 244-5791,Ottawa,East,Enterprise,2023-11-07
+C00285,Arjun,Lee,arjun.lee284@example.com,(903) 569-7142,Montreal,East,SMB,2025-11-13
+C00286,Mateo,Smith,mateo.smith285@example.com,(535) 403-1870,Toronto,Central,SMB,10-Jan-2024
+C00287,Olivia,Clark,olivia.clark286@example,(453) 868-4241,Sudbury,North,SMB,2024-04-08
+C00288,Ryan,Martin,ryan.martin287@example.com,(316) 930-5936,Ottawa,East,SMB,2025-06-30
+C00289,Sofia,  Brown ,sofia.brown288@example.com,(480) 330-4585,Montreal,East,Consumer,20-Apr-2024
+C00290,Olivia,Taylor,olivia.taylor289@example.com,(650) 816-6634,Montreal,East,Consumer,2022-08-25
+C00291,Liam,Martin,liam.martin290@example.com,(546) 320-9663,Toronto,Central,SMB,2023-08-23
+C00292,Arjun,Wong,arjun.wong291@example.com,(929) 956-8460,London,South,Consumer,2022-03-07
+C00293,Priya,Singh,priya.singh292@example.com,(630) 695-6547,Toronto,Central,SMB,2022-09-03
+C00294,Grace,Smith,grace.smith293@example.com,(710) 620-1148,Windsor,South,SMB,2024-05-27
+C00295,Zoe,Lewis,zoe.lewis294@example.com,(926) 667-2571,Montreal,East,Consumer,30-Sep-2021
+C00296,Lucas,Gagnon,lucas.gagnon295@example.com,(824) 463-1111,Montreal,East,Enterprise,12-May-2024
+C00297,Jack,Roy,jack.roy296@example.com,(452) 605-1000,Mississauga,CENTRAL,Consumer,2023-12-03
+C00298,Arjun,Campbell,arjun.campbell297@example.com,(549) 863-3248,Montreal,East,Consumer,2022-07-18
+C00299,Mia,Gagnon,mia.gagnon298@example.com,(908) 499-1419,Windsor,South,Consumer,2021-03-24
+C00300,Zoe,Smith,zoe.smith299@example.com,(974) 691-3876,Thunder Bay,North,SMB,
+C00301,Olivia,Kumar,olivia.kumar300@example.com,(639) 634-3181,Windsor,South,SMB,2025-02-14
+C00302,Mia,Lee,mia.lee301@example,(598) 805-9549,Mississauga,Central,Consumer,2024-08-26
+C00303,Sofia,Anderson,sofia.anderson302@example.com,(638) 753-9931,Sudbury,North,Consumer,08-Feb-2023
+C00304,Leah,Clark,leah.clark303@example.com,(220) 404-5173,Toronto,Central,SMB,2024-04-08
+C00305,Priya,Taylor,priya.taylor304@example.com,,Ottawa,East,Consumer,01/28/2023
+C00306,Daniel,Campbell,daniel.campbell305@example.com,(691) 741-2038,Thunder Bay,North,SMB,10/17/2022
+C00307,Sofia,Roy,sofia.roy306@example.com,(796) 740-6434,Windsor,South,SMB,2022-08-21
+C00308,Emma,Martin,emma.martin307@example.com,(580) 232-7533,Montreal,East,Consumer,2022-01-21
+C00309,Ethan,Lee,ethan.lee308@example.com,(279) 264-9959,London,South,SMB,2025-11-06
+C00310,Jack,Wong,jack.wong309@example.com,,Sudbury,North,SMB,2024-05-01
+C00311,Olivia,Gagnon,olivia.gagnon310@example.com,(711) 800-5280,Calgary,  West ,Consumer,2021-11-16
+C00312,Omar,Wilson,omar.wilson311@example.com,(860) 326-6578,Vancouver,WEST,Consumer,2025-04-29
+C00313,Ryan,Kumar,ryan.kumar312@example.com,(840) 886-9360,Sudbury,North,Consumer,2021-10-04
+C00314,lucas,Wong  ,lucas.wong313@example.com,(297) 504-1234,London,South,SMB,
+C00315,Daniel,Clark,daniel.clark314@example.com,(483) 261-7498,Windsor,South,Consumer,30-Oct-2021
+C00316,Grace,Roy,grace.roy315@example.com,,Vancouver,West,Enterprise,31/31/2024
+C00317,Olivia,Anderson  ,olivia.anderson316@example.com,(355) 892-4008,Vancouver,West,SMB,17-Apr-2024
+C00318,Emma,Taylor,emma.taylor317@example.com,(359) 560-1784,Calgary,West,SMB,2025-12-30
+C00319,Ryan,Singh,ryan.singh318@example.com,(521) 709-9037,Toronto,Central,Consumer,2025-12-17
+C00320,Jack,Lee,jack.lee319@example.com,(889) 299-8363,Vancouver,West,Consumer,24-Jun-2025
+C00321,Olivia,Brown,olivia.brown320@example.com,(436) 596-1798,London,South,Consumer,2022-03-06
+C00322,Ryan,Roy,ryan.roy321@example.com,(948) 953-6115,Sudbury,North,SMB,06/20/2021
+C00323,Emma,Gagnon,emma.gagnon322@example.com,(959) 868-7005,Calgary,  West ,SMB,2025-07-12
+C00324,Ryan,Clark,ryan.clark323@example.com,(763) 802-5414,Toronto,Central,SMB,2025-08-13
+C00325,Chloe,Wong,chloe.wong324@example.com,(225) 569-6527,Mississauga,Central,SMB,2022-05-24
+C00326,Liam,Martin,liam.martin325@example.com,(828) 732-1464,London,South,Enterprise,TBD
+C00327,Ryan,Campbell,ryan.campbell326@example.com,(480) 936-8372,Windsor,South,SMB,2024-03-29
+C00328,Omar,Brown,omar.brown327@example.com,(448) 817-1776,Sudbury,North,Consumer,2021-05-19
+C00329,  Omar ,Campbell,omar.campbell328@example.com,(416) 439-2777,Thunder Bay,North,Consumer,2021/03/15
+C00330,Olivia,Wilson,olivia.wilson329@example.com,(645) 857-9224,Montreal,East,Consumer,2025-09-08
+C00331,Ava,Singh,ava.singh330@example.com,(920) 926-9635,Ottawa,East,SMB,2023-06-25
+C00332,Ava,Anderson,unknown,(666) 944-9104,London,South,SMB,2021-07-24
+C00333,Arjun,Lee,arjun.lee332@example.com,(656) 770-6042,Windsor,South,Enterprise,2024-04-10
+C00334,Emma,Kumar,emma.kumar333@example.com,(247) 430-7023,Mississauga,Central,SMB,2022-11-06
+C00335,Omar,Gagnon,omar.gagnon334@example.com,(392) 670-5468,Montreal,East,SMB,2023-09-07
+C00336,Daniel,Lewis,daniel.lewis335@example.com,(634) 703-7289,Mississauga,Central,SMB,2025-06-30
+C00337,Grace,Campbell,grace.campbell336@example.com,(616) 393-5179,Mississauga,Central,Enterprise,
+C00338,Noah,Roy,noah.roy337@example.com,(399) 857-4399,Windsor,South,Consumer,2024-03-26
+C00339,Olivia,Kumar,olivia.kumar338@example.com,(358) 860-7839,London,South,SMB,21-Feb-2025
+C00340,Leah,Lee,leah.lee339@example.com,(429) 889-3383,Mississauga,Central,SMB,2023-02-13
+C00341,Lucas,Gagnon,lucas.gagnon340@example.com,(432) 471-7563,Calgary,West,SMB,2025-11-07
+C00342,Ryan,Tremblay,ryan.tremblay341@example.com,(203) 730-2528,London,South,SMB,2023-03-30
+C00343,Leah,Brown,leah.brown342@example.com,(876) 341-4781,Calgary,West,SMB,2023-04-19
+C00344,Olivia,Taylor,olivia.taylor343@example.com,(514) 794-1604,Montreal,East,SMB,2025-06-03
+C00345,Olivia,Tremblay,olivia.tremblay344@example.com,(561) 366-4549,Mississauga,Central,SMB,2024-03-07
+C00346,Olivia,Lewis,olivia.lewis345@example.com,(629) 284-7863,London,South,Enterprise,2025-05-06
+C00347,Noah,Wong,noah.wong346@example.com,(380) 751-4568,Toronto,Central,Consumer,2024-12-14
+C00348,Liam,Anderson,liam.anderson347@example.com,(651) 396-2648,Toronto,Central,Enterprise,07/24/2024
+C00349,Grace,Anderson,grace.anderson348@example.com,(592) 512-9055,Sudbury,North,SMB,2022-03-17
+C00350,Chloe,Taylor,chloe.taylor349@example.com,(790) 659-4503,Sudbury,North,SMB,12/30/2022
+C00351,Jack,Smith,jack.smith350@example.com,(573) 652-5025,Ottawa,East,SMB,28-Apr-2025
+C00352,GRACE,Lee,grace.lee351@example.com,(597) 577-3783,Sudbury,North,SMB,2024-01-30
+C00353,Jack,Singh,jack.singh352@example.com,(665) 297-5248,Windsor,  South ,Consumer,2022-05-27
+C00354,Ava,Clark,unknown,(755) 795-1593,Montreal,East,SMB,2022-08-21
+C00355,Lucas,Martin,lucas.martin354@example.com,(472) 665-8682,Toronto,Central,SMB,17-Nov-2024
+C00356,Grace,Singh,grace.singh355@example.com,(269) 665-6985,Mississauga,Central,SMB,2021-11-22
+C00357,Ava,WILSON,ava.wilson356@example.com,(427) 487-3148,Sudbury,North,Enterprise,24-Jul-2021
+C00358,Liam,Tremblay,liam.tremblay357@example.com,(336) 403-5373,Toronto,Central,SMB,2024-10-29
+C00359,Ryan,Brown,ryan.brown358@example.com,(608) 510-4431,Thunder Bay,NORTH,SMB,11-Jun-2022
+C00360,Grace,Wilson,grace.wilson359@example.com,(387) 988-5463,Calgary,West,SMB,29-Oct-2024
+C00361,Jack,Brown,jack.brown360@example.com,(899) 840-8376,Mississauga,Central,Consumer,09/02/2023
+C00362,Leah,Brown,leah.brown361@example.com,,Mississauga,  Central ,Consumer,12/28/2025
+C00363,Emma,Wilson,emma.wilson362@example.com,(947) 895-8662,London,South,Consumer,08/17/2023
+C00364,Daniel,Martin,,(750) 219-4490,Mississauga,Central,SMB,2025-05-04
+C00365,Grace,Gagnon,grace.gagnon364@example.com,(647) 766-1195,Sudbury,North,Consumer,2025-04-02
+C00366,Ryan,smith,ryan.smith365@example.com,(574) 448-3069,Montreal,East,SMB,2022-01-23
+C00367,Grace,Roy,grace.roy366@example.com,(646) 713-8209,Montreal,East,SMB,2025-12-24
+C00368,Grace,Singh,grace.singh367@example.com,(976) 440-3246,Windsor,South,Consumer,2024-09-23
+C00369,  Zoe ,Lewis,zoe.lewis368@example.com,(223) 887-9652,Sudbury,North,Consumer,2021-07-15
+C00370,olivia,Campbell,olivia.campbell369@example.com,(380) 620-9916,Calgary,West,Consumer,2021-01-12
+C00371,arjun,Clark,arjun.clark370@example.com,,Windsor,South,Consumer,2022-05-11
+C00372,Ava,Wilson,ava.wilson371@example.com,(612) 609-9302,Calgary,West,Enterprise,2021-01-30
+C00373,Emma,Singh,emma.singh372@example.com,(845) 733-4692,Ottawa,  East ,Consumer,2022-10-15
+C00374,Emma  ,Lee,emma.lee373@example.com,(403) 791-8585,Windsor,South,SMB,2025-12-25
+C00375,Ryan,Clark,ryan.clark374@example.com,(826) 327-4540,Toronto,Central,Consumer,2023-05-25
+C00376,Sofia,Lewis,sofia.lewis375@example.com,(918) 202-7367,Thunder Bay,North,Consumer,N/A
+C00377,Sofia,Lewis,sofia.lewis376@example.com,(438) 227-4006,Vancouver,WEST,Enterprise,2023-06-21
+C00378,Priya,Kumar,priya.kumar377@example.com,(674) 567-8193,Calgary,West,Enterprise,2022-02-05
+C00379,Sofia,Gagnon,sofia.gagnon378@example.com,(345) 405-7359,London,South,Enterprise,2025-04-13
+C00380,Chloe,Gagnon,chloe.gagnon379@example.com,(990) 274-3716,Windsor,South,SMB,2021-06-15
+C00381,Liam,Lewis,liam.lewis380@example.com,(874) 370-7882,Thunder Bay,North,Enterprise,2024-11-08
+C00382,Omar,Roy,omar.roy381@example.com,(578) 825-2592,Toronto,Central,Consumer,26-Mar-2023
+C00383,Zoe,Wilson,zoe.wilson382@example.com,(364) 815-5472,Mississauga,Central,SMB,2021-02-04
+C00384,Noah,Clark,noah.clark383@example.com,,Windsor,South,Consumer,2024-05-14
+C00385,Grace,Lee,grace.lee384@example.com,(228) 778-5792,Sudbury,North,SMB,2023-04-11
+C00386,Priya,Martin,priya.martin385@example.com,(869) 653-8937,Thunder Bay,North,SMB,2024-11-09
+C00387,Liam,Gagnon,liam.gagnon386@example.com,(924) 894-5577,Thunder Bay,North,Enterprise,03-Feb-2024
+C00388,Noah,Wilson,noah.wilson387@example.com,(758) 653-5725,Mississauga,Central,Consumer,2024-12-08
+C00389,Olivia,Clark,olivia.clark388@example.com,(800) 934-6518,Mississauga,Central,Enterprise,04/21/2023
+C00390,Lucas,Clark,lucas.clark389@example.com,(280) 221-1652,Sudbury,North,Enterprise,2021-01-15
+C00391,Liam,Roy,liam.roy390@example.com,(603) 555-1797,Vancouver,West,SMB,08/27/2021
+C00392,Priya,Gagnon,priya.gagnon391@example.com,(739) 852-9918,Sudbury,North,Consumer,2023-04-18
+C00393,Sofia,Lewis,sofia.lewis392@example.com,(439) 838-2969,London,South,Enterprise,2022-12-27
+C00394,Jack,Anderson,jack.anderson393@example.com,,Ottawa,East,SMB,2024-12-21
+C00395,Priya,Martin,priya.martin394@example.com,(909) 681-4192,Vancouver,West,Consumer,2023-01-22
+C00396,Chloe,Taylor,chloe.taylor395@example.com,(643) 610-1913,Toronto,Central,Consumer,2025-04-20
+C00397,Sofia,Taylor,sofia.taylor396@example.com,(407) 580-2052,Sudbury,north,Enterprise,12/09/2021
+C00398,Liam,Campbell,liam.campbell397@example.com,(273) 709-2984,Sudbury,North,Enterprise,2022-12-04
+C00399,Liam,Smith,liam.smith398@example.com,(480) 808-7226,Windsor,South,SMB,10/13/2024
+C00400,Chloe,Roy,chloe.roy399@example.com,(770) 630-6204,Windsor,South,SMB,2021-08-15
+C00401,Olivia,Wong,olivia.wong400@example.com,(947) 630-8521,Mississauga,Central,Consumer,10-Aug-2022
+C00402,Olivia,Martin,olivia.martin401@example.com,(566) 791-3015,Vancouver,West,SMB,2024-10-04
+C00403,Ava,Roy,ava.roy402@example.com,(989) 265-6216,Windsor,  South ,SMB,12/12/2023
+C00404,Omar,Wilson,omar.wilson403@example.com,(879) 482-5805,Mississauga,Central,Enterprise,2024-11-21
+C00405,Arjun,Tremblay,arjun.tremblay404@example.com,(742) 469-9983,Ottawa,East,SMB,31-Jul-2023
+C00406,Priya,Tremblay,priya.tremblay405@example.com,(686) 248-5059,Ottawa,East,Enterprise,2025/04/18
+C00407,Zoe,Wilson,zoe.wilson406@example.com,(676) 421-3202,Ottawa,East,Consumer,05/22/2025
+C00408,Noah,Wong,noah.wong407@example.com,(656) 784-8174,Sudbury,NORTH,Enterprise,2025-11-15
+C00409,Ethan,Smith,ethan.smith408@example.com,(346) 217-1404,Mississauga,Central,Consumer,2021/08/11
+C00410,Liam,Roy,liam.roy409@example.com,(366) 754-4766,Sudbury,  North ,Consumer,2023-12-16
+C00411,Daniel,Smith,daniel.smith410@example.com,,Sudbury,North,Enterprise,2021-07-28
+C00412,Noah,Gagnon,noah.gagnon411@example.com,(231) 616-3542,Windsor,South,Enterprise,02/22/2022
+C00413,Ethan,Roy,ethan.roy412@example.com,(403) 547-1976,Windsor,South,SMB,07/03/2022
+C00414,Jack,Kumar,jack.kumar413@example.com,(937) 739-7111,Thunder Bay,North,Enterprise,2024-03-25
+C00415,Mateo,Taylor,mateo.taylor414@example.com,(901) 963-9766,Sudbury,  North ,SMB,2023-02-27
+C00416,Arjun,Kumar,arjun.kumar415@example.com,(983) 245-5186,Calgary,  West ,Consumer,04/29/2025
+C00417,Sofia,Campbell,sofia.campbell416@example.com,(863) 849-5698,Mississauga,Central,SMB,2022-06-30
+C00418,DANIEL,  Singh ,,(788) 887-5060,Thunder Bay,North,Enterprise,02-Feb-2024
+C00419,Lucas  ,Wong,lucas.wong418@example.com,(361) 860-7823,London,South,SMB,2024-10-25
+C00420,Chloe,Singh,chloe.singh419@example.com,(746) 961-6847,Montreal,East,SMB,2025-11-26
+C00421,Omar,Lewis,omar.lewis420@example.com,(617) 496-6500,Mississauga,Central,Consumer,2022-03-24
+C00422,Mateo,Lewis,mateo.lewis421@example.com,(236) 504-4896,Calgary,WEST,Enterprise,2024-09-01
+C00423,Zoe,Taylor  ,zoe.taylor422@example.com,(806) 396-7825,Vancouver,West,Consumer,2021-06-04
+C00424,Emma,Campbell,emma.campbell423@example.com,(367) 907-3092,Ottawa,East,Consumer,2023-09-20
+C00425,Ava,Roy,ava.roy424@example.com,(260) 813-7469,Ottawa,East,Enterprise,2023-01-26
+C00426,Leah,Wong  ,leah.wong425@example.com,(500) 421-4881,Thunder Bay,North,Enterprise,10/17/2025
+C00427,Sofia,Campbell,sofia.campbell426@example.com,(528) 456-5824,Mississauga,Central,SMB,2024-11-13
+C00428,Mia,Clark,mia.clark427@example.com,(805) 570-6947,Toronto,Central,Consumer,08/21/2025
+C00429,Zoe,ROY,,(359) 797-1059,Sudbury,North,SMB,04/03/2025
+C00430,Mateo,Kumar,mateo.kumar429@example.com,(565) 746-5727,Vancouver,West,Consumer,2023-01-20
+C00431,Sofia,Singh,sofia.singh430@example.com,(618) 283-4733,Thunder Bay,North,Consumer,2024-09-01
+C00432,Ryan,Tremblay,ryan.tremblay431@example.com,(531) 873-4693,Calgary,West,Consumer,2021/02/25
+C00433,  Lucas ,Tremblay,lucas.tremblay432@example.com,(439) 943-3019,Mississauga,Central,SMB,2023-10-16
+C00434,Chloe  ,Gagnon,chloe.gagnon433@example.com,(228) 911-5119,Sudbury,North,SMB,2021-03-28
+C00435,Zoe,Wilson,zoe.wilson434@example.com,,Ottawa,East,Consumer,2024-08-15
+C00436,Leah,Brown,leah.brown435@example.com,(936) 294-8926,Sudbury,North,SMB,2025-11-01
+C00437,Noah,Lee,noah.lee436@example.com,(373) 315-4611,Montreal,East,Consumer,05/29/2024
+C00438,Emma,Campbell,emma.campbell437@example.com,(629) 200-2123,Mississauga,Central,Enterprise,2025-03-14
+C00439,Arjun,Wilson,arjun.wilson438@example.com,(329) 451-5946,Thunder Bay,North,Enterprise,2022-03-04
+C00440,Sofia,lewis,sofia.lewis439@example.com,(575) 638-3978,Windsor,South,Consumer,2025-12-20
+C00441,Ryan,Kumar,ryan.kumar440@example,,Toronto,Central,SMB,2023-10-03
+C00442,Zoe,Gagnon,zoe.gagnon441@example.com,(377) 517-1974,London,South,Enterprise,2024-05-16
+C00443,leah,Clark,leah.clark442@example.com,(354) 317-8952,Sudbury,North,Enterprise,2024-11-08
+C00444,Arjun,Lee,arjun.lee443@example.com,(984) 715-6491,Montreal,East,SMB,03/13/2024
+C00445,Emma,Tremblay,emma.tremblay444@example.com,(785) 270-4527,Ottawa,East,Consumer,08/03/2022
+C00446,Emma,Smith,emma.smith445@example.com,(978) 893-6607,Vancouver,West,Enterprise,2024-01-22
+C00447,Jack,Lewis,jack.lewis446@example.com,(299) 506-4936,London,South,Enterprise,2024-04-09
+C00448,Emma,Lewis,emma.lewis447@example.com,(944) 541-9972,Toronto,Central,SMB,2025-04-15
+C00449,Leah,Anderson,leah.anderson448@example.com,(732) 718-3693,Ottawa,East,Consumer,31/31/2024
+C00450,Lucas,Brown,lucas.brown449@example.com,(973) 525-9304,London,South,SMB,07/06/2023
+C00451,Liam,Roy,liam.roy450@example.com,(689) 762-8849,Toronto,Central,Consumer,08-Jul-2023
+C00452,Mia,Smith,mia.smith451@example.com,(319) 321-7060,Toronto,Central,Consumer,2021-07-28
+C00453,Chloe,Smith,chloe.smith452@example.com,(463) 323-8400,Montreal,East,SMB,2021-06-14
+C00454,Zoe,Martin,zoe.martin453@example.com,(395) 901-1310,Sudbury,North,Consumer,2021-02-07
+C00455,Daniel,Taylor,daniel.taylor454@example.com,(821) 998-5991,Ottawa,East,Consumer,2024-05-01
+C00456,Chloe,Brown,chloe.brown455@example.com,(205) 296-7066,Ottawa,East,SMB,2023-02-04
+C00457,Zoe  ,Lewis,zoe.lewis456@example,(335) 671-3297,Sudbury,North,SMB,04/30/2025
+C00458,Chloe,Singh,chloe.singh457@example.com,(746) 579-4286,Vancouver,West,Consumer,2024-07-06
+C00459,Jack,Roy,jack.roy458@example.com,(610) 674-6195,Mississauga,Central,Consumer,2021-09-16
+C00460,Zoe,Gagnon,zoe.gagnon459@example.com,(365) 773-8936,Sudbury,North,Consumer,02-Jul-2021
+C00461,Noah,Kumar,noah.kumar460@example.com,(828) 576-7639,Vancouver,West,Consumer,2022-10-31
+C00462,Zoe,Wilson,zoe.wilson461@example.com,(456) 930-3201,Sudbury,north,SMB,2025-08-09
+C00463,Grace,SMITH,grace.smith462@example.com,,Vancouver,West,Consumer,2021-03-30
+C00464,Ava,Smith,ava.smith463@example.com,(865) 377-2177,Montreal,East,Consumer,2021-12-09
+C00465,Leah,  Wong ,leah.wong464@example.com,(851) 730-3552,Sudbury,North,SMB,N/A
+C00466,Mateo,Brown,mateo.brown465@example.com,(300) 459-5847,Toronto,Central,Enterprise,26-Jan-2023
+C00467,Chloe,Campbell,chloe.campbell466@example.com,(837) 719-8876,Sudbury,North,SMB,13-Dec-2025
+C00468,Mia,Lee,mia.lee467@example.com,(274) 820-2690,Ottawa,East  ,Consumer,2024-06-02
+C00469,Leah,Kumar,leah.kumar468@example.com,(318) 835-5660,Sudbury,North,SMB,2023-06-21
+C00470,Olivia,Smith,olivia.smith469@example.com,(750) 325-5719,Mississauga,Central,Consumer,2021-09-21
+C00471,Lucas,Clark,lucas.clark470@example.com,(209) 744-9225,Calgary,West,Enterprise,12-Oct-2022
+C00472,Zoe,Anderson,zoe.anderson471@example.com,(724) 974-9202,Toronto,Central,SMB,2023/08/16
+C00473,Arjun,Singh,arjun.singh472@example.com,(280) 290-3314,Montreal,East,SMB,2022-05-17
+C00474,Arjun  ,Martin,arjun.martin473@example.com,(470) 456-8539,Ottawa,East,Enterprise,2024-07-11
+C00475,Emma,Lewis,emma.lewis474@example.com,(426) 993-2649,Vancouver,West,Consumer,2025-11-25
+C00476,Ava,Roy,ava.roy475@example.com,(359) 719-3282,Calgary,West,Enterprise,12-Jan-2022
+C00477,Liam,Singh,liam.singh476@example.com,(302) 946-5551,Mississauga,Central,Consumer,2022-04-06
+C00478,Mateo,Lee,mateo.lee477@example.com,(355) 722-7119,Sudbury,North,SMB,08/19/2021
+C00479,Ethan,Martin,ethan.martin478@example.com,(767) 688-8875,Calgary,West,Consumer,2024-08-18
+C00480,Mateo,Lee,mateo.lee479@example.com,(862) 422-7693,Sudbury,north,SMB,2023-04-24
+C00481,Mateo,Tremblay,mateo.tremblay480@example.com,(279) 353-1597,London,South,Enterprise,2022-06-03
+C00482,Priya,Smith,priya.smith481@example.com,(597) 248-9670,Mississauga,central,Enterprise,2022-02-05
+C00483,Sofia,Roy,sofia.roy482@example.com,(638) 364-6493,London,South,Enterprise,2021-05-09
+C00484,Chloe,Brown,chloe.brown483@example.com,(941) 856-2261,Calgary,West,SMB,2023-05-20
+C00485,Mateo,Lee,mateo.lee484@example.com,(447) 892-6066,Montreal,East,Consumer,2024-06-01
+C00486,Ryan,Wong,ryan.wong485@example.com,(858) 723-2194,London,South,SMB,2022-03-06
+C00487,Chloe,tremblay,chloe.tremblay486@example.com,(367) 801-1882,London,South,SMB,2021-01-03
+C00488,Mia,Smith,mia.smith487@example.com,(711) 674-5205,Ottawa,East,SMB,2023/05/15
+C00489,Ava,Brown,ava.brown488@example.com,(395) 255-1760,Vancouver,West,SMB,2024-05-18
+C00490,Daniel,Gagnon,daniel.gagnon489@example.com,(724) 671-5806,Vancouver,West,Consumer,2022-09-22
+C00491,Mia,Roy,mia.roy490@example.com,(288) 805-7756,Mississauga,Central,SMB,04/03/2022
+C00492,Sofia,Singh,sofia.singh491@example.com,(453) 910-5396,Toronto,Central,Consumer,2021-10-09
+C00493,Noah,Smith,noah.smith492@example.com,(808) 622-3507,Vancouver,West,Consumer,2024-09-24
+C00494,Zoe,Wilson,zoe.wilson493@example.com,(814) 957-3238,Calgary,West,SMB,N/A
+C00495,Sofia,Lee,sofia.lee494@example.com,(273) 548-3111,Windsor,South  ,Enterprise,2024-11-06
+C00496,Chloe,Lee,chloe.lee495@example.com,(480) 793-6333,Montreal,East,Enterprise,2023-08-05
+C00497,Sofia,Gagnon,sofia.gagnon496@example.com,(578) 339-3827,Thunder Bay,North,SMB,2024-08-15
+C00498,Ethan,Kumar,ethan.kumar497@example.com,(511) 413-8647,Windsor,SOUTH,SMB,2022-12-26
+C00499,Jack,Singh,jack.singh498@example.com,(886) 711-4401,Toronto,Central,Consumer,2021-02-14
+C00500,Sofia,Wong,sofia.wong499@example.com,(501) 251-4352,Ottawa,East,SMB,2022-11-03
+C00362,Leah,Brown,leah.brown361@example.com,,Mississauga,  Central ,Consumer,12/28/2025
+C00074,Olivia,Gagnon,olivia.gagnon73@example.com,(447) 256-4735,Sudbury,North,SMB,2025-12-17
+C00375,Ryan,Clark,ryan.clark374@example.com,(826) 327-4540,Toronto,Central,Consumer,2023-05-25
+C00156,Sofia,Taylor,sofia.taylor155@example.com,(776) 469-6380,Vancouver,  West ,Enterprise,2023-07-30
+C00105,Grace,Roy,grace.roy104@example.com,(601) 978-3329,Calgary,West,SMB,09/17/2023
+C00395,Priya,Martin,priya.martin394@example.com,(909) 681-4192,Vancouver,West,Consumer,2023-01-22
+C00378,Priya,Kumar,priya.kumar377@example.com,(674) 567-8193,Calgary,West,Enterprise,2022-02-05
+C00125,Chloe,WONG,chloe.wong124@example,(683) 411-3329,Toronto,Central,SMB,2021-08-05
+C00069,Chloe,Wilson,chloe.wilson68@example.com,(371) 724-4403,Sudbury,North,Enterprise,2022-03-04
+C00451,Liam,Roy,liam.roy450@example.com,(689) 762-8849,Toronto,Central,Consumer,08-Jul-2023
+C00010,AVA,Gagnon,ava.gagnon9@example.com,(979) 323-1949,Thunder Bay,North,Consumer,2022-05-28
+C00195,Liam,Gagnon,liam.gagnon194@example.com,(359) 355-9747,Mississauga,Central,SMB,08/06/2025
+C00302,Mia,Lee,mia.lee301@example,(598) 805-9549,Toronto,Central,Consumer,2024-08-26
+C00233,Leah,Lewis,leah.lewis232@example.com,(655) 206-2021,Toronto,North,Enterprise,24-Nov-2022
+C00052,Ethan,Wilson,ethan.wilson51@example.com,(659) 563-2461,Toronto,North,Enterprise,2024-05-24
+C00306,Daniel,Campbell,daniel.campbell305@example.com,(691) 741-2038,Toronto,North,SMB,10/17/2022
+C00471,Lucas,Clark,lucas.clark470@example.com,(209) 744-9225,Toronto,West,Enterprise,12-Oct-2022
